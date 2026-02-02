@@ -6,7 +6,7 @@ Unlike standard IoT prototypes, EduSense features an Offline Fail-Safe via a loc
 
 ## Quick Links
 - Live Simulation: offline: https://wokwi.com/projects/453951590301233153
-                   online: https://wokwi.com/projects/454308317695279105
+  online: https://wokwi.com/projects/454308317695279105
   
 - Demo Video: https://youtu.be/xOdZIc2Vr3w?si=9I6aiPIF2jCoDdSJ
 - PPT:
@@ -56,7 +56,5 @@ Unlike standard IoT prototypes, EduSense features an Offline Fail-Safe via a loc
 - Current Limitation: Utilizing simulated inputs for RFID and IR sensors within the Wokwi environment.
 - Future Scope: Transitioning to MQ135 sensors and implementing ESP-NOW mesh networking for campus-wide scalability.
 
-
-## **END OF DOCUMENTATION**
 
 ## **END OF DOCUMENTATION**
