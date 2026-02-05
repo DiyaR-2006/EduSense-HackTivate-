@@ -1,7 +1,3 @@
-// https://wokwi.com/projects/454308317695279105
-// demo link for online version 
-
-
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
@@ -114,5 +110,3 @@ void loop() {
   // Frequency control for DHT22 stability
   delay(2000); 
 }
-
-
